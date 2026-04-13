@@ -1,0 +1,22 @@
+# Xcode build artefacts
+build/
+DerivedData/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+
+# CocoaPods
+Pods/
+*.xcworkspace
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# OS
+.DS_Store
+*.swp
